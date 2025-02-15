@@ -40,5 +40,3 @@
 
 ###
 
-## 🐍 GitHub Activity Snake  
-![Snake animation](https://github.com/vinici0sal/vinici0sal/blob/output/github-contribution-grid-snake.svg)
